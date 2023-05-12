@@ -48,7 +48,7 @@ jobs:
           npm install --global yarn
           yarn install
           yarn build
-          bundle update
+          bundle install
           JEKYLL_ENV=production bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
