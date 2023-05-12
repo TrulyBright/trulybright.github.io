@@ -23,7 +23,7 @@ title: 참밝음 # the main title
 tagline: TrulyBright # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  참밝음의 블로그
+  참밝은 블로그
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://trulybright.github.io"
@@ -42,7 +42,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/TrulyBright # change to your github homepage
-    - https://twitter.com/username # change to your twitter homepage
+    # - https://twitter.com/username # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
