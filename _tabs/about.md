@@ -3,4 +3,4 @@
 icon: fas fa-info-circle
 order: 4
 ---
-글 쓰는 사람입니다.
+소설도 쓰고 개발도 하고픈 사회학과 학부생입니다.
