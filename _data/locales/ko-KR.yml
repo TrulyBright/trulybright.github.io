@@ -46,7 +46,7 @@ not_found:
   statment: 없는 URL입니다.
 
 notification:
-  update_found: 해당 게시글이 새로 고쳐졌습니다.
+  update_found: 방금 블로그에 변경이 있었습니다!
   update: 새로고침
 
 # ----- Posts related labels -----
