@@ -55,7 +55,7 @@ post:
   written_by: 글쓴이
   posted: 글쓴날
   updated: 고침
-  words: 단어
+  words: 자
   pageview_measure: 조회
   read_time:
     unit: 분
