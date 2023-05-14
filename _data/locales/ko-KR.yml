@@ -30,15 +30,14 @@ panel:
 copyright:
   # Shown at the bottom of the post
   license:
-    template: 이 글은 저작권자의 :LICENSE_NAME 라이센스를 따릅니다.
-    name: CC BY 4.0
-    link: https://creativecommons.org/licenses/by/4.0/
+    # template: 이 글은 저작권자의 :LICENSE_NAME 라이센스를 따릅니다.
+    # name: CC BY 4.0
+    # link: https://creativecommons.org/licenses/by/4.0/
 
   # Displayed in the footer
   brief: 전권 보유
   verbose: >-
-    따로 명시되지 않는 한 이 블로그의 게시글은
-    Creative Commons Attribution 4.0 International(CC BY 4.0) 라이선스를 따릅니다.
+    따로 명시되지 않는 한 이 블로그의 저작물은 반드시 저작자의 허가를 받고 복사/배포되어야 합니다.
 
 meta: 본 블로그는 :PLATFORM에 :THEME 테마를 입혀 개발되었습니다.
 
@@ -46,7 +45,7 @@ not_found:
   statment: 없는 URL입니다.
 
 notification:
-  update_found: 방금 블로그에 변경이 있었습니다!
+  update_found: 블로그에 변경이 있었습니다!
   update: 새로고침
 
 # ----- Posts related labels -----
