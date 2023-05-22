@@ -18,6 +18,7 @@
   .year {
     height: 3.5rem;
     font-size: 1.5rem;
+    font-family: 'KoPubWorld Dotum';
     position: relative;
     left: 2px;
     margin-left: -$timeline-width;
@@ -45,7 +46,7 @@
       border-radius: 50%;
       width: 12px;
       height: 12px;
-      left: 21.5px;
+      left: 15px;
       border: 3px solid;
       background-color: var(--timeline-year-dot-color);
       border-color: var(--timeline-node-bg);
@@ -93,15 +94,18 @@
     display: inline-block;
     position: relative;
     right: 0.5rem;
+    top: 0.25rem;
 
     &.month {
       width: 1.4rem;
       text-align: center;
+      font-family: 'KoPubWorld Dotum';
     }
 
     &.day {
+      margin-left: .7rem !important;
       font-size: 85%;
-      font-family: Lato, sans-serif;
+      font-family: 'KoPubWorld Dotum';
     }
   }
 
